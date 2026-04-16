@@ -1,0 +1,4 @@
+github.com/ysravankumarreddy/mcp-protocol v0.0.0-20260415071841-41ca7c95d364 h1:ppj7FAzuAXka5z5ONqnaxi+tCN9Nqqf0CfYJEb796Hw=
+github.com/ysravankumarreddy/mcp-protocol v0.0.0-20260415071841-41ca7c95d364/go.mod h1:hRYSbsokiO5qz3Q8BPcIB2NpHYHxVI01WVKECDjffoc=
+golang.org/x/sys v0.43.0 h1:Rlag2XtaFTxp19wS8MXlJwTvoh8ArU6ezoyFsMyCTNI=
+golang.org/x/sys v0.43.0/go.mod h1:4GL1E5IUh+htKOUEOaiffhrAeqysfVGipDYzABqnCmw=
